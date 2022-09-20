@@ -1,10 +1,6 @@
 # Kodluyoruz İlk  Repo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-
-![image](https://user-images.githubusercontent.com/48651506/182372384-deaa5cb7-9fc2-44f1-9079-316f97e42172.png)
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. 
 
 ## Patika Adresim
 
@@ -15,7 +11,7 @@ https://app.patika.dev/mervesoylemez
 Öncelikle projeyi klonlayın. 
 
 ```bash
-git clone https://github.com/mervesoylmz/kodluyoruzilkrepo.git
+gh repo clone mervesoylmz/BaslangicSeviyeFrontend
 ```
 
 ## Kullanım
@@ -24,7 +20,7 @@ Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 ```linux
-cd kodluyoruzilkrepo
+cd BaslangicSeviyeFrontend
 code .
 ```
 
