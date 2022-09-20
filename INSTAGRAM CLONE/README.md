@@ -1,13 +1,14 @@
-# HTML-BOOTSTRAP-Manzara-Resimleri
+
 ## Site içi görseller
-![image](https://user-images.githubusercontent.com/48651506/183864652-62cdd113-7c91-4de1-ae8a-d34892332d7f.png)
 
+![1](https://user-images.githubusercontent.com/48651506/191347828-878bcfaf-66a2-4660-8dba-af9f523d71b0.png)
 
-![image](https://user-images.githubusercontent.com/48651506/183864765-fd70e541-d22a-4ef2-ab9d-085402da320a.png)
+<br>
+<br>
 
+![2](https://user-images.githubusercontent.com/48651506/191347894-1a2912dd-2d38-4a03-98e1-aa4d700d0a6d.png)
 
-![image](https://user-images.githubusercontent.com/48651506/183864835-84cf793b-cd93-4467-891e-3564e8ad2b0c.png)
+<br>
+<br>
 
-
-![image](https://user-images.githubusercontent.com/48651506/183864907-7d218386-f730-4b86-b3a6-c7796cc1056a.png)
-
+![3](https://user-images.githubusercontent.com/48651506/191347927-722f3c44-4267-4ec1-8b0d-d121900d09bb.png)
