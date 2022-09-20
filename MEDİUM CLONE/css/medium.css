@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+}
+.bg-medium{
+    background-color: #FFC017;
+    
+}
+
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+.border-bottom-light{
+    border-bottom: 1px solid rgb(165, 159, 159);
+}
+.font-text{
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+    color: rgba(8, 8, 8, 1);
+    line-height: 88px;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    letter-spacing: -0.055em;
+    margin: 0;
+}
+
+.font-text-p{
+    font-size: 24px;    
+    line-height: 24px;
+    font-size: 18px;
+    color: rgba(41, 41, 41, 1);
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
+.font-button{
+    font-size: 20px;
+    width: 215px;
+    padding: 7px 20px 9px;
+    line-height: 24px;
+    border-radius: 99em;
+    background: rgba(25, 25, 25, 1);
+    color: rgba(255, 255, 255, 1);
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.number{
+    font-weight: 700;
+    color: rgba(230, 230, 230, 1);
+    letter-spacing: 0;
+    line-height: 36px;
+    font-size: 30px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.aside-button{
+    margin-bottom: 10px;
+}

@@ -1,0 +1,2 @@
+## Site içi görseller
+
