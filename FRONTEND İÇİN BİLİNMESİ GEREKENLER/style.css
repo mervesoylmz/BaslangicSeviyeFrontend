@@ -1,0 +1,17 @@
+#navbar{
+    height: 100px;
+    font-size: 25px;
+    color: #fff;
+    font-family: 'PT Sans Dar', sans-serif;
+}
+
+#slider{
+    height: 450px;
+}
+
+.card img{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+
+}

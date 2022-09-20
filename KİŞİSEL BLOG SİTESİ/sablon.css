@@ -1,0 +1,135 @@
+/* CSS Dosyası */
+
+/*Boşlukları Sıfırlama*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/*genel sayfa*/
+ #sayfa{
+    width: 1250px;
+    min-height: 2300px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(255, 157, 0);
+    margin: auto;
+
+ }
+
+ /*düz çizgi*/
+ hr{
+     border-color: rgb(255, 157, 0);
+ }
+
+ /* Banner */
+ #banner{
+    width: 1248px;
+    height: 100px;
+    border-width: 2px;
+    border-color: rgb(255, 157, 0);
+    background-color: white;
+    
+    margin: auto;
+    border-style: solid;
+ }
+ #banner img{
+   width: 1300px;
+   height: 100px;
+   
+  }
+   
+
+ /*logo*/
+ #logo img{
+    width: 100px;
+    height: 94px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(150, 75, 0);
+    position: relative;
+    left: 20px;
+    top: 2px;
+    float: left;
+        
+ }
+
+ /*Metin*/
+ #metin img{ 
+    width: 450px;
+    height: 100px;
+    position:relative;
+    right: -300px;
+    float: left;
+
+}
+
+ /*Sosyal Medya*/
+#sosyalmedya img{
+    width: 30px;
+    height: 30px;
+    position:relative;
+    right: 20px;
+    top: 30px;
+    float: right;
+    
+ }
+
+ /*Anamenü*/
+ #anamenu{
+   width: 1248px;
+    height: 30px;
+    border-width: 2px;
+    border-color: rgb(255, 157, 0);
+    background-color: white;
+    margin: auto;
+    border-style: solid;
+    background-color: rgb(252, 235, 183);
+ }
+
+ #anamenu ul{
+   list-style-type: none;
+   
+
+ }
+
+ #anamenu ul li{
+   width: 200px;
+   height: 30px;
+   position: relative;
+   float: left;
+   left: 124px;
+   top: 5px;
+   margin-left: 5px;
+   padding: 2px;
+   text-align: center;
+ }
+ #anamenu ul li a{
+   color: rgb(255, 157, 0);
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   text-decoration: none;
+   font-weight: bold;
+   font-size: 13px;
+ }
+ #anamenu ul li a:link{
+   color: rgb(255, 157, 0);
+ }
+ 
+ #anamenu ul li a:hover{
+   color: rgb(255, 128, 0);
+   text-decoration: underline;
+   font-size: 14px;
+ }
+
+ #altmenu{
+  width: 1248px;
+  height: 200px;
+  border-style: solid ;
+  border-width: 1px;
+  background-color: rgb(255, 157, 0);
+  float:left;
+}
+
+
+
+ 

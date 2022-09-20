@@ -1,0 +1,43 @@
+#icerik p{
+    width: 500px;
+    text-align: center;
+    text-decoration: none;
+    top: 100px;
+    position: relative;
+    float: left;
+    
+    margin: 30px;
+    padding: 50px;
+
+}
+
+#icerik img{
+    width: 500px;
+    height: 300px;
+    top: 20px;
+    position: relative;
+    float: left;
+    left: 10px;
+    margin: 10px;
+
+
+
+}
+
+  #icerik a{
+    color: rgb(255, 157, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 13px;
+  }
+  #icerik a:link{
+    color: rgb(255, 157, 0);
+  }
+  
+  #icerik a:hover{
+    color: rgb(255, 128, 0);
+    text-decoration: underline;
+    font-size: 14px;
+  }
+ 
